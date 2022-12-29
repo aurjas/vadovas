@@ -76,7 +76,7 @@ Kokybiniai duomenys skirstomi į dvi kategorijas:
 Pavadinimai ir identifikatoriai :data:`property.ref` stulpelyje neturi jokio
 žymėjimo ir jiems suteikiamas `4` brandos lygis.
 
-Kategoriniai duomenys žymini naudojant papildomą `enum` dimensiję, kurioje
+Kategoriniai duomenys žymini naudojant papildomą `enum` dimensiją, kurioje
 išvardinamos visos galimos kategorinių duomenų reikšmės.
 
 Jei kategoriniai duomenys yra paliginami, pavyzdžiui:
@@ -125,7 +125,7 @@ datasets/example
 \           id            integer        4
 -- -- -- -- ------------- -------- ----- -----
 \           temperatura   number   °C    4
-\           svorlis       number   kg    4
+\           svoris        number   kg    4
 \           plotas        number   m²    4
 \           turis         number   m³    4
 \           greitis       number   km/h  4
@@ -212,7 +212,7 @@ y           10\ :sup:`-24`  yocto
 Vienetai
 ========
 
-Specialiejie vienetai
+Specialieji vienetai
 ---------------------
 
 ==========  ===========================
